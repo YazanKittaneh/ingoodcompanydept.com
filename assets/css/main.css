@@ -3370,7 +3370,7 @@
 		}
 
 		#banner .content {
-			font: "Befolk";
+			font-family: "Befolk";
 			display: inline-block;
 			margin-right: 1%;
 			max-width: 95%;
