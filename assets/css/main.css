@@ -3330,8 +3330,8 @@
 /* Banner */
 	@@font-face {
 	font-family: Befolk;
-	src: url("fonts/Befolk.ttf") format('truetype'),
-	 		 url("fonts/Befolk.woff") format("woff");
+	src: url("./assets/css/fonts/Befolk.ttf") format('truetype'),
+	 		 url("./assets/css/fonts/Befolk.woff") format("woff");
 	}
 	#banner {
 		background-attachment: fixed;
