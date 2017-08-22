@@ -3330,8 +3330,12 @@
 /* Banner */
 	@@font-face {
 	font-family: 'Befolk';
+	font-style: normal;
+	font-weight: 400;
 	src: url("./fonts/Befolk.ttf") format('truetype'),
-	 		 url("./fonts/Befolk.woff") format("woff");
+	 		 url("./fonts/Befolk.woff") format("woff"),
+			 url("./fonts/Befolk.woff2") format("woff2");
+
 	}
 
 	#banner {
