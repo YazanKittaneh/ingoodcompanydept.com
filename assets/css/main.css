@@ -3331,7 +3331,7 @@
 /* Banner */
 @font-face{
     font-family: "Befolk";
-    src: url('Befolk Script.ttf'),
+    src: url('/Befolk.ttf'),
 }
 
 	#banner {
