@@ -3329,9 +3329,9 @@
 
 /* Banner */
 	@font-face {
-	font-family: "Befolk";
-	src: url("../../fonts/Befolk.ttf");
-	src: url("../../fonts/Befolk.woff") format("woff");
+	font-family: 'Befolk';
+	src: url("fonts/Befolk.ttf") format('truetype'),
+	 		 url("fonts/Befolk.woff") format("woff");
 	}
 	#banner {
 		background-attachment: fixed;
