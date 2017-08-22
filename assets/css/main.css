@@ -3391,9 +3391,8 @@
 			}
 
 				#banner .content header h2 {
+					color: red;
 					font-family: 'Befolk';
-					font-weight:normal;
-					font-style:normal;
 					font-size: 2.5em;
 					margin: 0;
 				}
