@@ -3374,9 +3374,6 @@
 		}
 
 		#banner .content {
-			font-family: 'Befolk';
-			font-weight:normal;
-			font-style:normal;
 			display: inline-block;
 			margin-right: 1%;
 			max-width: 95%;
@@ -3388,24 +3385,17 @@
 		}
 
 			#banner .content header {
-				font-family: 'Befolk';
-				font-weight:normal;
-				font-style:normal;
 				display: inline-block;
 				vertical-align: middle;
 			}
 
 				#banner .content header h2 {
 					color: red;
-					font-family: 'Befolk';
 					font-size: 2.5em;
 					margin: 0;
 				}
 
 				#banner .content header p {
-					font-family: 'Befolk';
-					font-weight:normal;
-					font-style:normal;
 					margin: 0.5em 0 0 0;
 					top: 0;
 				}
