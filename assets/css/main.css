@@ -3332,9 +3332,9 @@
 	font-family: 'Befolk';
 	font-style: normal;
 	font-weight: 400;
-	src: url("./fonts/Befolk.ttf") format('truetype'),
-	 		 url("./fonts/Befolk.woff") format("woff"),
-			 url("./fonts/Befolk.woff2") format("woff2");
+	src: url("./fonts/Befolk Script.ttf"),
+	 		 url("./fonts/Befolk Script.eot"),
+			 url("./fonts/Befolk Script.otf");
 
 	}
 
@@ -3390,7 +3390,6 @@
 			}
 
 				#banner .content header h2 {
-					color: red;
 					font-size: 2.5em;
 					margin: 0;
 				}
