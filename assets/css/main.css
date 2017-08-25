@@ -3708,6 +3708,7 @@
 		/* Banner */
 
 			#banner {
+				font-family: 'Mogra', cursive;
 				box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
 				min-height: calc(100vh - 44px);
 			}
@@ -3722,6 +3723,7 @@
 				}
 
 					#banner .content header h2 {
+						font-family: 'Mogra', cursive;
 						font-size: 1.5em;
 					}
 
